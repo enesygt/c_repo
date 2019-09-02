@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1566977927 source:c:\users\enes\desktop\test\includes\cipelectronickey.c
+	<stdlib.h>
+	"cipelectronickey.h"
+
+1566977927 c:\users\enes\desktop\test\includes\cipelectronickey.h
+	<stdbool.h>
+	"typedefs.h"
+
+1566977927 c:\users\enes\desktop\test\includes\typedefs.h
+	<inttypes.h>
+	<stddef.h>
+	<stdbool.h>
+	"platform_network_includes.h"
+
+1566977927 c:\users\enes\desktop\test\includes\platform_network_includes.h
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1566977927 source:c:\users\enes\desktop\test\includes\cipepath.c
+	<stdbool.h>
+	<stdlib.h>
+	"cipepath.h"
+	"endianconv.h"
+	"cipelectronickey.h"
+	"trace.h"
+	<assert.h>
+
+1566977927 c:\users\enes\desktop\test\includes\cipepath.h
+	<stdbool.h>
+	"ciptypes.h"
+	"cipelectronickey.h"
+
+1566977927 c:\users\enes\desktop\test\includes\ciptypes.h
+	"typedefs.h"
+	"networkhandler.h"
+	"enipmessage.h"
+	"opener_user_conf.h"
+
+1566977927 c:\users\enes\desktop\test\includes\networkhandler.h
+	"typedefs.h"
+
+1566977927 c:\users\enes\desktop\test\includes\enipmessage.h
+	"opener_user_conf.h"
+
+1566977927 c:\users\enes\desktop\test\includes\opener_user_conf.h
+	"typedefs.h"
+	"devicedata.h"
+	<stdio.h>
+
+1567059398 c:\users\enes\desktop\test\includes\devicedata.h
+
+1566977927 c:\users\enes\desktop\test\includes\endianconv.h
+	"typedefs.h"
+
+1566977927 c:\users\enes\desktop\test\includes\trace.h
+	"opener_user_conf.h"
+
+1567405655 source:c:\users\enes\desktop\test\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

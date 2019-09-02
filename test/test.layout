@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="..\includes\appcontype.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1176" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\includes\cipethernetlink.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7281" topLine="159" />
+		</Cursor>
+	</File>
+	<File name="..\includes\cipethernetlink.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="887" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\includes\cipconnectionobject.c" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4432" topLine="100" />
+		</Cursor>
+	</File>
+	<File name="..\includes\appcontype.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12426" topLine="259" />
+		</Cursor>
+	</File>
+	<File name="..\includes\cipcommon.c" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19243" topLine="373" />
+		</Cursor>
+	</File>
+	<File name="..\includes\cipidentity.c" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1008" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="..\includes\cipioconnection.h" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1950" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="..\includes\cipcommon.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2548" topLine="32" />
+		</Cursor>
+	</File>
+	<File name="..\includes\cipconnectionmanager.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15432" topLine="171" />
+		</Cursor>
+	</File>
+	<File name="..\includes\cipassembly.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3520" topLine="74" />
+		</Cursor>
+	</File>
+	<File name="..\includes\cipconnectionobject.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17352" topLine="378" />
+		</Cursor>
+	</File>
+	<File name="..\includes\cipclass3connection.c" open="1" top="1" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3020" topLine="37" />
+		</Cursor>
+	</File>
+	<File name="..\includes\cipclass3connection.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2106" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="..\includes\devicedata.h" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="755" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\includes\cipconnectionmanager.c" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="59189" topLine="1367" />
+		</Cursor>
+	</File>
+	<File name="..\includes\opener_api.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14061" topLine="347" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
