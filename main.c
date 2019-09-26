@@ -1,30 +1,13 @@
-// C program to illustrate 
-// size of struct 
-#include <stdio.h> 
-	struct A { 
+#include"stdio.h"
 
-		// sizeof(int) = 4 
+int main()
+{
 
-		// Padding of 4 bytes 
+	              enum Colour{BLACK=2 ,WHITE = 4,RED,YELLOW};
 
-		// sizeof(double) = 8 
-		double z; 
+	      int a = BLACK;
+	   printf("%d",RED);
+	for (;;);
+	return 0;
 
-		// sizeof(short int) = 2 
-		short int y; 
-		// Padding of 6 bytes 
-				int x; 
-	}; 
-int main() 
-{ 
-
-int y = 6;
-
-int bit= 0b1110;
-//(0<<2);
-
-	printf("%x", bit); 
-
-	return 0; 
-} 
-
+}
