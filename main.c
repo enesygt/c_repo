@@ -7,6 +7,5 @@ int main() {
   int a = BLACK;
   printf("%d",RED);
   for (;;) {}
-  return 0;
 
 }
