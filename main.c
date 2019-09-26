@@ -7,5 +7,12 @@ int main() {
   int a = BLACK;
   printf("%d",RED);
   for (;;) {}
+  if(x > y)
+
+  {
+
+    x + 5;
+    y + 6;
+  }
 
 }
