@@ -8,6 +8,6 @@ int main()
 	        int a = BLACK;
 	     printf("%d",RED);
 	   for (;;);
-	return 0;
+	          return 0;
 
 }
