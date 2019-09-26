@@ -6,7 +6,7 @@
 				int x; 
 	}; 
                              int main() 
-{ 
+       { 
 
 int y = 6;
 
