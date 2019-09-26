@@ -5,7 +5,7 @@
 		// Padding of 6 bytes 
 				int x; 
 	}; 
-int main() 
+                             int main() 
 { 
 
 int y = 6;
