@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-08T13:01:28.024Z" agent="5.0 (X11)" etag="d5LhQDlwpjuCzrFyhXBJ" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-08T13:05:49.708Z" agent="5.0 (X11)" etag="EJk7-pr5kt-8WIauReeV" version="14.8.4" type="github">
   <diagram id="0e4Jp00zzM7mLS0odbhh" name="Page-1">
     <mxGraphModel dx="2272" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="6pTxzxF0QzeRCm71XM6k-6" value="&lt;div style=&quot;font-family: &amp;#34;droid sans mono&amp;#34; , &amp;#34;monospace&amp;#34; , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-weight: normal ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;pi_sample&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="400" y="460" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6pTxzxF0QzeRCm71XM6k-8" value="&lt;div style=&quot;font-family: &amp;#34;droid sans mono&amp;#34; , &amp;#34;monospace&amp;#34; , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-weight: normal ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;int64_t offset,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;            uint64_t local_ts&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="700" y="460" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
